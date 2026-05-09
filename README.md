@@ -2,7 +2,7 @@
 
 End-to-end machine learning system that ranks S&P 500 stocks on predicted 1-month forward performance, with a backtested investment strategy and interactive dashboard.
 
-**🔗 Live Demo:** [link goes here once deployed]
+**🔗 Live Demo:** https://equity-research-ml-jwmnosnrbegtpmvwe66xyn.streamlit.app
 
 ---
 
